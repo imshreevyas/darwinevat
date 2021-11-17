@@ -1,0 +1,10 @@
+{
+    "name": "codeigniter4/codeigniter4",
+    "type": "project",
+    "description": "The CodeIgniter framework v4",
+    "homepage": "https://codeigniter.com",
+    "license": "MIT",
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    }
+}
